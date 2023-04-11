@@ -35,7 +35,7 @@ It uses a custom replacement of SwiftUI's List for more flexibility and a `Custo
 
 ## About the author
 
-Created by Damjan Dabo. Follow me on [Twitter](https://twitter.com/DamjanDabo)
+Created by Damjan Dabo. If you have any questions or suggestions, feel free to reach out to me on [Twitter](https://twitter.com/DamjanDabo) or make a pull request.
 
 ## License
 
