@@ -29,6 +29,10 @@ SearchViewModel is responsible for handling the search query and updating the UI
 `SearchView` is the main view that displays the search results. 
 It uses a custom replacement of SwiftUI's List for more flexibility and a `CustomSearchBar` for the search input.
 
+## About the author
+
+Created by Damjan Dabo. Follow me on [Twitter](https://twitter.com/DamjanDabo)
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
