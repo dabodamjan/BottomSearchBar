@@ -2,6 +2,8 @@
 
 Small SwiftUI sample project showing off how to implement a custom search bar on the bottom of the screen.
 
+![Screenshot](screenshot.png)
+
 ## Overview
 
 This project demonstrates how to implement a custom search bar on the bottom of the screen using SwiftUI. It includes an example of how to use Combine to perform the search on mock data, and how to update the UI with the search results.
