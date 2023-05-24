@@ -21,6 +21,7 @@ struct CustomSearchBar: View {
                     .foregroundColor(Color(UIColor.secondaryLabel))
 
                 TextField("Search", text: $text)
+                    .accessibilityAddTraits(.isSearchField)
                     .focused($isFocused)
                     .foregroundColor(.primary)
 
@@ -31,6 +32,7 @@ struct CustomSearchBar: View {
                         }
                     }) {
                         Image(systemName: "xmark.circle.fill")
+                            .accessibilityLabel("Clear text")
                             .foregroundColor(Color(UIColor.secondaryLabel))
                     }
                 }
